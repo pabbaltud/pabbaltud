@@ -37,3 +37,5 @@ Sientete libre de copiar cualquier cosa de mis proyectos y reporta errores si cr
 
 </div>
 !tenUnMalDía ⭐
+
+<!--https://simpleicons.org/?q=ssh - https://shields.io/badges/static-badge PAGINAS DE LOGOS DE CONTENIDO --!>
