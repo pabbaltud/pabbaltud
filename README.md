@@ -1,8 +1,8 @@
-<h2> Saludos, Marinero! <img src="https://media.tenor.com/x9efZijA7aYAAAAM/fsh-spin.gif" width="30px"></h2>
+<img width="740" height="493" alt="image" src="https://github.com/user-attachments/assets/dfee14e2-9703-4b7a-9034-a873809b1097" /><h2> Saludos, Marinero! <img src="https://media.tenor.com/x0eNn0EUrKwAAAAM/1700sea-shanties-pirate.gif" width="40px"></h2>
 
 <div align="center" width="50">
 
-<img src="https://media.tenor.com/x9efZijA7aYAAAAM/fsh-spin.gif" alt="Welcome!" width="300"/>
+<img src="https://img.freepik.com/vector-gratis/codigo-binario-estilo-matriz-fondo-digital-numeros-que-caen_1017-25336.jpg?semt=ais_hybrid&w=740&q=80" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -11,8 +11,6 @@ Sientete libre de copiar cualquier cosa de mis proyectos y reporta errores si cr
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 
 <div align="center">
-
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Links:</i><br>
 
