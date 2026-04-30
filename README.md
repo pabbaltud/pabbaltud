@@ -1,12 +1,25 @@
- /><h2> Saludos, Marinero! <img src="https://media.tenor.com/x0eNn0EUrKwAAAAM/1700sea-shanties-pirate.gif" width="40px"></h2>
-<img width="740" height="493" alt="image" src="https://github.com/user-attachments/assets/dfee14e2-9703-4b7a-9034-a873809b1097"
-<div align="center" width="50">
+<div align="center">
+  <h2> 
+    Saludos, Marinero! 
+    <img align="center" src="https://media.tenor.com/x0eNn0EUrKwAAAAM/1700sea-shanties-pirate.gif" width="40px">
+  </h2>
+
+  <br>
+</div>
+<img src="https://i.pinimg.com/originals/b4/ae/b7/b4aeb7d23a75db2a0da44cc40e464d7c.gif" width="50%" height="300"/>
+
+   
+
+
+
+
+  
 
 </div>
 
 De casualidad has caído en mi perfil! <br>
 Sientete libre de copiar cualquier cosa de mis proyectos y reporta errores si crees que algo podría mejorarse ;)
--.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 
 <div align="center">
 
