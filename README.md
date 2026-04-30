@@ -18,9 +18,8 @@ Happy Coding! 😊
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://open.spotify.com/user/8vuavkaskm3fc7r3nrkxrikfo?si=8b44c26f1fbb4ed9&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://open.spotify.com/user/8vuavkaskm3fc7r3nrkxrikfo?si=8b44c26f1fbb4ed9" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 </div>
-
 
 ⭐
