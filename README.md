@@ -3,16 +3,16 @@
     Saludos, Marinero! 
     <img align="center" src="https://media.tenor.com/x0eNn0EUrKwAAAAM/1700sea-shanties-pirate.gif" width="40px">
   </h2>
-
-  <br>
-</div>
-<img src="https://i.pinimg.com/originals/b4/ae/b7/b4aeb7d23a75db2a0da44cc40e464d7c.gif" width="50%" height="300"/>
-
 </div>
 
+<div display="flex">
+  <img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" width="100%" height="300"/>
+</div>
+
+<br>
 De casualidad has caído en mi perfil! <br>
 Sientete libre de copiar cualquier cosa de mis proyectos y reporta errores si crees que algo podría mejorarse ;)
--.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+<h2></h2>
 
 <div align="center">
 <h3>💻 Conocimientos en:</h3>
